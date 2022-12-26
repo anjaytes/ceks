@@ -1,0 +1,76 @@
+{
+  "database": {
+    "sad>/<": {
+      "key": {
+        "remoteJid": "120363043304970432@g.us",
+        "fromMe": false,
+        "id": "CBF40148C626177ABA2EE567E67C0BCD"
+      },
+      "message": {
+        "audioMessage": {
+          "url": "https://mmg.whatsapp.net/d/f/AqQyiG7VxJOQS7O5mOWasJipqCP5Xjm3a-6mZABtrT8d.enc",
+          "mimetype": "audio/mp4",
+          "fileSha256": "8CCHJC81nMSRw4/gUbVOoopKSHAd8dUapp4HrFL/JH0=",
+          "fileLength": "232315",
+          "seconds": 28,
+          "ptt": false,
+          "mediaKey": "jnMLyZb3HSIW4EMPTI5Kwn17Ycmjp6Kid1o6VsK7ol4=",
+          "fileEncSha256": "ALIx9f9XA0Vgh/cOvF93DDybTeJsC0jXjSRNsbDJ1pM=",
+          "directPath": "/v/t62.7114-24/32581159_6231987243482450_2576891439194607524_n.enc?ccb=11-4&oh=01_AVyrDqiV6AK4fWUCOff6ZleetA59cNj_ZYT9Bsw1IGS1fw&oe=636C498B",
+          "mediaKeyTimestamp": "1665473840"
+        }
+      },
+      "participant": "6289518363262@s.whatsapp.net"
+    }
+  },
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": [],
+    "bendera": [],
+    "bendera2": [],
+    "kabupaten": [],
+    "kimia": [],
+    "asahotak": [],
+    "siapakahaku": [],
+    "susunkata": [],
+    "tekateki": []
+  },
+  "settings": {
+    "6285651455987@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": true
+    },
+    "628989722384@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    },
+    "6289518363262@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
